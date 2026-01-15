@@ -527,7 +527,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Acknowledgments
 
-- **Internship Organization**: [Future Interns](https://futureinterns.com/)
 - **Dataset Source**: Marketing campaign data (2023-2024)
 - **Resources**: Power BI Community, Microsoft Learn, DAX Guide
 

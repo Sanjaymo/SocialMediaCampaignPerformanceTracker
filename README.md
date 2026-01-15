@@ -374,7 +374,7 @@ Marketing Efficiency =
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/marketing-campaign-tracker.git
+git clone https://github.com/yourusername/SocialMediaCampaignPerformanceTracker.git
 cd marketing-campaign-tracker
 ```
 
